@@ -20,4 +20,4 @@ st.markdown(""" # _This is italic h1 markdown heading_
 st.markdown(" Cool guy emoji :sunglasses:")
 
 #using html tags inside markdown
-st.markdown(""" The emojis are separated by break tag <br> :earth: <br> :moon: <br> :fire: <br> :water: <br>""")
+st.markdown(""" The emojis are separated by break tag <br> :snowflake: <br> :moon: <br> :fire: <br> :cyclone: <br>""", True)
