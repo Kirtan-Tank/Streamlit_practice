@@ -17,4 +17,4 @@ st.markdown(""" # _This is italic h1 markdown heading_
 - ## _This is italic h2 markdown heading_ 
 - ### _This is italic h3 markdown heading_ """)
 
-st.markdown(" Ninja emoji :ninja:")
+st.markdown(" Cool guy emoji :sunglasses:")
