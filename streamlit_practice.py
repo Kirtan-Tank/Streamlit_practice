@@ -21,3 +21,6 @@ st.markdown(" Cool guy emoji :sunglasses:")
 
 #using html tags inside markdown
 st.markdown(""" The emojis are separated by break tag <br> :snowflake: <br> :moon: <br> :fire: <br> :cyclone: <br>""", True)
+
+#latex expression
+st.latex("\[\sqrt{x^2+1}\] ")
